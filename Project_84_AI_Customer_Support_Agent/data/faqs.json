@@ -1,0 +1,62 @@
+[
+  {
+    "id": "FAQ-001",
+    "category": "Orders",
+    "question": "Where is my order?",
+    "answer": "Use the order tracking page with your order number to view the latest status.",
+    "keywords": [
+      "order",
+      "tracking",
+      "delivery",
+      "shipment"
+    ]
+  },
+  {
+    "id": "FAQ-002",
+    "category": "Returns",
+    "question": "How can I return an item?",
+    "answer": "Check the return policy and submit a return request with your order number and reason.",
+    "keywords": [
+      "return",
+      "refund",
+      "exchange",
+      "item"
+    ]
+  },
+  {
+    "id": "FAQ-003",
+    "category": "Payments",
+    "question": "Which payment methods are supported?",
+    "answer": "Available payment methods are shown at checkout. Never share card PINs or one-time passwords with support.",
+    "keywords": [
+      "payment",
+      "card",
+      "checkout",
+      "transaction"
+    ]
+  },
+  {
+    "id": "FAQ-004",
+    "category": "Account",
+    "question": "How do I reset my password?",
+    "answer": "Use the official password reset option on the sign-in page. Support will never ask for your current password.",
+    "keywords": [
+      "password",
+      "login",
+      "account",
+      "reset"
+    ]
+  },
+  {
+    "id": "FAQ-005",
+    "category": "Support",
+    "question": "How do I contact support?",
+    "answer": "Submit a support ticket with a short description and a safe contact method. Do not include passwords or payment secrets.",
+    "keywords": [
+      "contact",
+      "support",
+      "ticket",
+      "help"
+    ]
+  }
+]

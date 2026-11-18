@@ -1,0 +1,20 @@
+[
+  {
+    "id": "HR-001",
+    "title": "Leave policy",
+    "department": "HR",
+    "content": "Employees should submit planned leave requests through their manager. Approval depends on team coverage and company policy."
+  },
+  {
+    "id": "IT-001",
+    "title": "Password security",
+    "department": "IT",
+    "content": "Use unique passwords and multi-factor authentication. Never share passwords or one-time codes."
+  },
+  {
+    "id": "OPS-001",
+    "title": "Expense process",
+    "department": "Operations",
+    "content": "Submit business expenses with receipts through the expense workflow. Reimbursement requires policy review."
+  }
+]
