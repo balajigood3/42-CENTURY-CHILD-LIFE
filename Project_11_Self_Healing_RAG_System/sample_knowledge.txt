@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) combines information retrieval with language generation. A retriever selects relevant passages from a knowledge source, and a language model uses those passages to answer a user question.

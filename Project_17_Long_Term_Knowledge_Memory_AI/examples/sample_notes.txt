@@ -1,0 +1,3 @@
+I prefer Python examples when learning AI engineering.
+For personal projects, I prefer free and open-source tools.
+I am currently planning a long-term portfolio of Generative AI projects.

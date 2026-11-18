@@ -1,0 +1,1 @@
+streamlit>=1.36,<2\nrequests>=2.31,<3\nPyMuPDF>=1.24,<2\npytest>=8,<9\n

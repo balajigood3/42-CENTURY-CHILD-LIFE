@@ -1,0 +1,2 @@
+Chennai is the capital of the Indian state of Tamil Nadu. Tamil is a classical language of India.
+A retrieval augmented generation system retrieves relevant passages before asking a language model to answer.

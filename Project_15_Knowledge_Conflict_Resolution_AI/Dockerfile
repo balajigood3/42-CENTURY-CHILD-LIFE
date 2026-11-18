@@ -1,0 +1,1 @@
+FROM python:3.11-slim\nWORKDIR /app\nCOPY requirements.txt .\nRUN pip install --no-cache-dir -r requirements.txt\nCOPY . .\nEXPOSE 8501\nCMD ["streamlit","run","app/main.py","--server.address=0.0.0.0"]\n

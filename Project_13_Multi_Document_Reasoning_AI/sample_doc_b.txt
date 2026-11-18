@@ -1,0 +1,1 @@
+A retrieval augmented generation system has a retrieval stage and a generation stage. Retrieval quality influences the final answer.

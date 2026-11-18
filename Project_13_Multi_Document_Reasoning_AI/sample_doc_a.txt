@@ -1,0 +1,1 @@
+RAG retrieves relevant document passages and supplies them to a language model so that answers can be grounded in source material.

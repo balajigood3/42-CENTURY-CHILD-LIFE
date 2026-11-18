@@ -1,0 +1,1 @@
+An autonomous knowledge base ingests documents, splits them into chunks, indexes the chunks, retrieves relevant passages for a query, and uses a language model to draft an answer grounded in those passages.
