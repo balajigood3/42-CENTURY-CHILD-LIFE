@@ -1,0 +1,5 @@
+streamlit>=1.36,<2
+Pillow>=10,<12
+pytest>=8,<9
+# Optional real image captioning: transformers and torch (large downloads)
+# Optional OCR fallback: pytesseract plus the Tesseract system binary

@@ -1,0 +1,6 @@
+streamlit>=1.36,<2
+Pillow>=10,<12
+pypdf>=4,<6
+pytest>=8,<9
+# Optional OCR: pytesseract (also install the Tesseract system binary)
+# Optional transcription: faster-whisper (downloads model weights on first use)

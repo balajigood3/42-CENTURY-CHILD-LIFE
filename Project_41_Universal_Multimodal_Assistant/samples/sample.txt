@@ -1,0 +1,1 @@
+Universal multimodal assistants accept different input types. This sample demonstrates text extraction and preview generation.
