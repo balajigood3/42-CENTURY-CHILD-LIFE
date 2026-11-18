@@ -1,0 +1,27 @@
+{
+  "problem": "Choose a project management tool",
+  "options": [
+    "Tool A",
+    "Tool B",
+    "Tool C"
+  ],
+  "criteria": [
+    {
+      "name": "Cost",
+      "weight": 30
+    },
+    {
+      "name": "Ease of use",
+      "weight": 25
+    },
+    {
+      "name": "Features",
+      "weight": 25
+    },
+    {
+      "name": "Privacy",
+      "weight": 20
+    }
+  ],
+  "rating_scale": "1 = poor, 5 = excellent"
+}
