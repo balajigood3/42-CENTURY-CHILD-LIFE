@@ -1,0 +1,17 @@
+[
+  {
+    "topic": "Open-source LLM inference serving",
+    "expected_sections": [
+      "Executive summary",
+      "Key findings",
+      "Evidence gaps"
+    ]
+  },
+  {
+    "topic": "Retrieval augmented generation evaluation",
+    "expected_sections": [
+      "Key findings",
+      "Further research questions"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "task": "calculate 12 * 4",
+    "expected_result": "48"
+  },
+  {
+    "task": "uppercase: hello world",
+    "expected_result": "HELLO WORLD"
+  },
+  {
+    "task": "count words: local agent demo",
+    "expected_result": "4"
+  }
+]

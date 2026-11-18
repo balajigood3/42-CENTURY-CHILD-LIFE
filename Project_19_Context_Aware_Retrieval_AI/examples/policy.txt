@@ -1,0 +1,3 @@
+Employees must protect confidential company information.
+Access to internal documents should follow the principle of least privilege.
+Sensitive data should not be copied into unapproved external services.

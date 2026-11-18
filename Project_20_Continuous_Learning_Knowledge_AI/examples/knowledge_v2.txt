@@ -1,0 +1,2 @@
+A continuous knowledge system can ingest updated documents incrementally.
+User feedback can be used as a small relevance signal to improve future retrieval ranking.

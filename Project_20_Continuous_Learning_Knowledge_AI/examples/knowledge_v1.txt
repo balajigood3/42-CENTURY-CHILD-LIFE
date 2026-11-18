@@ -1,0 +1,2 @@
+A retrieval augmented generation system retrieves relevant documents before generating an answer.
+Knowledge bases should preserve source information and document versions.
