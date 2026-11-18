@@ -1,0 +1,12 @@
+[
+  {
+    "title": "NIST Cybersecurity Framework",
+    "publisher": "NIST",
+    "url": "https://www.nist.gov/cyberframework"
+  },
+  {
+    "title": "Unknown blog post",
+    "publisher": "Example publisher",
+    "url": "https://example.org/article"
+  }
+]

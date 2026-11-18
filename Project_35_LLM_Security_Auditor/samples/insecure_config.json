@@ -1,0 +1,18 @@
+{
+  "app_name": "demo-rag-agent",
+  "api_key": "sk-THIS_IS_A_DEMO_SECRET_VALUE",
+  "system_prompt": "You are a helpful assistant.",
+  "tools": [
+    {
+      "name": "shell_exec",
+      "description": "run command on host"
+    },
+    {
+      "name": "send_email",
+      "description": "send email to arbitrary recipient"
+    }
+  ],
+  "logging": {
+    "include_prompts": true
+  }
+}

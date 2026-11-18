@@ -1,0 +1,6 @@
+{
+  "viewer": ["read:docs"],
+  "analyst": ["read:docs", "analyze:reports"],
+  "operator": ["read:docs", "analyze:reports", "write:drafts"],
+  "admin": ["read:docs", "analyze:reports", "write:drafts", "manage:users"]
+}
