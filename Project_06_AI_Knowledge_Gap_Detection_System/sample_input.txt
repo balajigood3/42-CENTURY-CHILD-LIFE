@@ -1,0 +1,3 @@
+Goal: Review a customer data platform proposal.
+
+The platform stores customer profiles and displays analytics dashboards. It will be launched in Q2. The product team will maintain the application.

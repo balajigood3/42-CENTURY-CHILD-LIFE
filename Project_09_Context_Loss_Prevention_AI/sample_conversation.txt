@@ -1,0 +1,1 @@
+User is building a Tamil-first local AI project. Constraint: no paid API keys. Preferred stack: Python, Ollama, Streamlit, SQLite. Next milestone: add retrieval-based memory.

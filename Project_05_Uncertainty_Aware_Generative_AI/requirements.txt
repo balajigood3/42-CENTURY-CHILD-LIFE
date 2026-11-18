@@ -1,0 +1,1 @@
+streamlit>=1.40\nrequests>=2.31\npytest>=8.0\n

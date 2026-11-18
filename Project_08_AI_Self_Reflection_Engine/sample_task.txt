@@ -1,0 +1,1 @@
+Explain how Retrieval-Augmented Generation works, with a short architecture outline and limitations.

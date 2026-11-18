@@ -1,0 +1,1 @@
+Sample reference: The system stores uploaded documents locally. It does not send document content to a hosted API in the default local configuration.
