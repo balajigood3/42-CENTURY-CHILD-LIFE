@@ -1,0 +1,28 @@
+{
+  "name": "Product",
+  "endpoint": "/products",
+  "fields": [
+    {
+      "name": "title",
+      "type": "str",
+      "required": true
+    },
+    {
+      "name": "price",
+      "type": "float",
+      "required": true
+    },
+    {
+      "name": "active",
+      "type": "bool",
+      "required": false
+    }
+  ],
+  "methods": [
+    "GET",
+    "POST",
+    "PUT",
+    "PATCH",
+    "DELETE"
+  ]
+}

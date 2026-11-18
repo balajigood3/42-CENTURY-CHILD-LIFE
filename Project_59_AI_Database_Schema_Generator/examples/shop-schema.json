@@ -1,0 +1,54 @@
+{
+  "tables": [
+    {
+      "name": "customers",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "primary_key": true,
+          "nullable": false
+        },
+        {
+          "name": "name",
+          "type": "string",
+          "nullable": false
+        },
+        {
+          "name": "email",
+          "type": "string",
+          "unique": true
+        }
+      ]
+    },
+    {
+      "name": "orders",
+      "columns": [
+        {
+          "name": "id",
+          "type": "integer",
+          "primary_key": true,
+          "nullable": false
+        },
+        {
+          "name": "customer_id",
+          "type": "integer",
+          "nullable": false
+        },
+        {
+          "name": "total",
+          "type": "float",
+          "nullable": false
+        }
+      ]
+    }
+  ],
+  "foreign_keys": [
+    {
+      "table": "orders",
+      "column": "customer_id",
+      "references_table": "customers",
+      "references_column": "id"
+    }
+  ]
+}
